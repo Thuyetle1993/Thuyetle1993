@@ -19,7 +19,6 @@ and learning in the field of web programming.
 
 If you find my journey intriguing, let's become friends and together
 we will share the exciting things on the long road ahead!
-
 ```
 
 <h4>
