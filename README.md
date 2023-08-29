@@ -22,7 +22,7 @@ we will share the exciting things on the long road ahead !
 ```
 
 <h4>
-  About me: https://bom.so/my-portfolio-mt
+  About me: https://bom.so/ThuyetleBkdn
 </h4>
 
 <h3 align="center">Languages and Tools:</h3>
