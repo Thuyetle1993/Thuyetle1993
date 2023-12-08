@@ -25,7 +25,7 @@ we will share the exciting things on the long road ahead !
   About me: https://bom.so/ThuyetleBkdn
 </h4>
 <h4>
-  My Digital CV : https://bom.so/Thuyet_CV
+  My Digital CV : https://bom.so/ThuyetBKDN_CV
 </h4>
 
 <h3 align="center">Languages and Tools:</h3>
